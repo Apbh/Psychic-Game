@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 You will need:
-A text editor like Visual Studio Code or Sublime Text
+A text editor like Visual Studio Code or Sublime Text.
 To download Visual Studio Code, please visit https://code.visualstudio.com/
 
 Steps to Retieve the pages on this Repository
