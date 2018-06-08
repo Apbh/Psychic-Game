@@ -1,0 +1,54 @@
+* {
+    -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+    
+    }
+
+    html{
+        font-size:62.5%;
+        
+    }
+    
+    body{
+        font-size:1.6rem;
+        
+    
+    }
+    
+    .wrapper{
+        max-width:850px;
+        margin:0 auto;
+        
+    }
+
+    h1{
+        font-family: 'Faster One', cursive;
+        font-size:7.0rem;
+        text-align: center;
+        color: indianred;
+
+    }
+
+    img{
+        width:550px;
+        height:auto;
+        display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    }
+
+    section.game.wrapper{
+        text-align :center;
+        border:1px solid black;
+        background-color:black;
+        margin-top:40px;
+    }
+
+    p{
+        font-family: 'Concert One', cursive;
+        font-size:2.0rem;
+        color: whitesmoke;
+    }
+    span{
+        font-size: 2.5rem;
+    }
