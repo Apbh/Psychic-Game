@@ -31,7 +31,7 @@ Steps to Retieve the pages on this Repository
 * Javascript
 
 
-## Authors
+## Author
 
 *Aparajita Bhattacharya*
 
