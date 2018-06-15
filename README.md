@@ -18,7 +18,7 @@ You will need:
 A text editor like Visual Studio Code or Sublime Text.
 To download Visual Studio Code, please visit https://code.visualstudio.com/
 
-Steps to Retieve the pages on this Repository
+Steps to Retrieve the pages on this Repository
 - Clone/Download the repository to your local directory via Git Bash, 'git clone (url)'
 -Make contributions to the index.html, style.css, game.js
 -Use Git Bash to add, commit and push changes to this master copy
