@@ -11,7 +11,7 @@ You get 9 chances to guess correctly, after which the game resets and your losse
 
 # Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
 ### Prerequisites
 
@@ -19,10 +19,9 @@ You will need:
 A text editor like Visual Studio Code or Sublime Text.
 To download Visual Studio Code, please visit https://code.visualstudio.com/
 
-Steps to Retrieve the pages on this Repository
-- Clone/Download the repository to your local directory via Git Bash, 'git clone (url)'
--Make contributions to the index.html, style.css, game.js
--Use Git Bash to add, commit and push changes to this master copy
+Steps to retrieve the pages on this repository
+- Clone/Download the repository to your local directory via Git Bash, 'git clone <url>'. You will now have a working copy of this game in your local computer.
+
 
 
 ## Built With
