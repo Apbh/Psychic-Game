@@ -1,7 +1,7 @@
 # Psychic-Game
 A game created using Javascript.
 The objective of the game is for the user to correctly guess the computer selected letter to win.
-Access the game at https://apbh.github.io/Psychic-Game/
+Access the game at https://apbh.github.io/The-Psychic-Game/
 
 Instructions:
 The game begins when a player selects an alphabet key. 
